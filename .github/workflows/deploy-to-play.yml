@@ -1,4 +1,4 @@
-name: Deploy to Google Play Store
+name: Deploy to Google Play Storee
 on:
   push:
     branches:
